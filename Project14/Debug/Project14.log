@@ -1,0 +1,4 @@
+﻿  10-9.cpp
+C:\Users\seoyo\OneDrive\바탕 화면\cpp_practice\Project14\10-9.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\seoyo\OneDrive\바탕 화면\cpp_practice\Project14\10-9.cpp(21,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project14.vcxproj -> C:\Users\seoyo\OneDrive\바탕 화면\cpp_practice\Project14\Debug\Project14.exe
